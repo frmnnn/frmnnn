@@ -1,16 +1,13 @@
-### Hi there 👋
 
-<!--
-**frmnnn/frmnnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<img src="https://user-images.githubusercontent.com/65858180/137301567-37e84890-e360-4f86-9dcc-127ff7f4f85b.gif" >
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+hi there ! i am firman akbar from selayar island, south sulawesi, Indonesia.
+styding at the UMI Makassar, informatics engineering.
+
+
+
+- 🔭 I’m currently working with many [organizations](https://coconut.or.id/contact)
+- 🌱 I’m currently learning new things
+- 👯 I’m looking to collaborate on Opensourced Projects
+- 📫 How to reach me: [Instagram](https://www.instagram.com/frmnnn.___/
